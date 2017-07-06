@@ -1,4 +1,4 @@
-package com.hackerearth.indiahack;
+package com;
 
 public class CarRace {
 
